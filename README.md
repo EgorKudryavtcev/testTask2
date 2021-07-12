@@ -28,6 +28,8 @@ http://static.feed.rbc.ru/rbc/logical/footer/news.rss. Каждая новост
 Минимальные требования:
 1. Любой PHP фреймворк.
 2. MySQL база данных.
+
+
 Дополнительные плюсы можно заработать при реализации с:
 1. Фреймворк Laravel8 или Symfony5.
 2. База данных PostgreSQL.
